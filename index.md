@@ -557,13 +557,9 @@ please preview your site before committing, and make sure to run
   </p>
 
   <p>
-    We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
-    a programming environment that runs in a web browser. For this to work you will need a reasonably
-    up-to-date browser. The current versions of the Chrome, Safari and
-    Firefox browsers are all
-    <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
-    (some older browsers, including Internet Explorer version 9
-    and below, are not).
+    We will teach Python using the <a href="https://www.spyder-ide.org/">Spyder IDE</a>.  
+    This is a combined editor, command line, and debugging environment.  
+    Install Spyder using Anaconda.
   </p>
 
   <div>
