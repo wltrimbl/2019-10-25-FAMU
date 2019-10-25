@@ -162,6 +162,12 @@ special instructions.
   attempt to provide them.
 </p>
 
+<p>
+  A collaborative document / chat room for the class is hosted here:
+<a href="https://pad.carpentries.org/2019-10-25-FAMU">https://pad.carpentries.org/2019-10-25-FAMU</a>
+Please open this in a browser for hints and questions.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
